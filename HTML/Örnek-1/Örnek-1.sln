@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Örnek-1", "Örnek-1\Örnek-1.csproj", "{60D4830E-C91E-418B-8DE5-B00864FE788C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60D4830E-C91E-418B-8DE5-B00864FE788C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60D4830E-C91E-418B-8DE5-B00864FE788C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60D4830E-C91E-418B-8DE5-B00864FE788C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60D4830E-C91E-418B-8DE5-B00864FE788C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {680C2C76-20F6-452B-9E8E-D512C3D9A79F}
+	EndGlobalSection
+EndGlobal
